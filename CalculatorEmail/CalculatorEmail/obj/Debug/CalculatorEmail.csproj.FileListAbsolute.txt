@@ -1,0 +1,11 @@
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\bin\Debug\CalculatorEmail.exe.config
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\bin\Debug\CalculatorEmail.exe
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\bin\Debug\CalculatorEmail.pdb
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.csprojResolveAssemblyReference.cache
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.Form1.resources
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.Properties.Resources.resources
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.csproj.GenerateResource.Cache
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.csproj.CoreCompileInputs.cache
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.exe
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.pdb
+c:\users\korisnik\source\repos\CalculatorEmail\CalculatorEmail\obj\Debug\CalculatorEmail.Form2.resources
